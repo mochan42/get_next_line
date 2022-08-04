@@ -2,7 +2,6 @@
 * 42 Core Curriculum
 * Level 1 in the Holy Graph
 * Passed with 105% (Mandatory part + partial Bonus : use of only 1 static variable) on 5<sup>th</sup> June 2022.
-* Please note that the 2 files main.c and my_text were not submitted as per subject rules but are present here to allow for testing of the program.
 
 ## Use
 
@@ -19,4 +18,4 @@ Expected result in the terminal based on the provided file <i>my_text</i>:<br>
 `ABCDE`<br>
 `123456(null)%`<br>
 
-
+<b>NB</b>: Please note that the 2 files main.c and my_text were not submitted as per subject rules but are present here to allow for testing of the program.
